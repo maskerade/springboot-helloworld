@@ -1,7 +1,8 @@
 # Simple SpringBoot HelloWorld
-Uses dcoker to build the jar file then creates a container with this jar file
-dddd
-dd
+Uses docker to build the jar file then creates a container with this jar file
+
+Build the jar and container:
+
 `docker build . -t springboot-hello-world`
 
 Run with:
